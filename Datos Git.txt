@@ -2,4 +2,4 @@ Nombre Estudiante: Jaime Godoy Echeverría
 https://github.com/TredJaime
 Repositorio: PruebaEveris
 
-url proyecto: https://github.com/TredJaime/PruebaEveris.git
+url proyecto: https://github.com/TredJaime/Jaime_Godoy_Evaluacion2.git
